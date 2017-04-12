@@ -71,7 +71,7 @@ padding:20px 20px 20px;
 width:100%;
 padding-left:0;
 padding-right:0;
-background-color:#c4cfd6;
+background-color:#7E8AA2;
 
 
 }
@@ -153,4 +153,13 @@ cursor:pointer;
 padding:20px;
 
 
+}
+.nav-tabs li a {
+border-radius:4px;
+}
+.nav-tabs {
+border-bottom: 0px;
+}
+.nav-pills > li > a:hover {
+color:#f06000;
 }
