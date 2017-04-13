@@ -50,8 +50,8 @@ display: none;
 
 .services{
 background-color:#fff;
-padding-top:50px;
-padding-bottom:50px;
+padding-top:30px;
+padding-bottom:20px;
 
 
 
@@ -72,7 +72,7 @@ width:100%;
 padding-left:0;
 padding-right:0;
 background-color:#7E8AA2;
-
+padding-top:25px;
 
 }
 
@@ -162,4 +162,54 @@ border-bottom: 0px;
 }
 .nav-pills > li > a:hover {
 color:#f06000;
+}
+.lg-backdrop.in {
+    opacity: 0.85;
+}
+.fixed-size.lg-outer .lg-inner {
+  background-color: #000;
+}
+.fixed-size.lg-outer .lg-sub-html {
+  position: absolute;
+  text-align: left;
+}
+.fixed-size.lg-outer .lg-toolbar {
+  background-color: transparent;
+  height: 0;
+}
+.fixed-size.lg-outer .lg-toolbar .lg-icon {
+  color: #fff;
+}
+.fixed-size.lg-outer .lg-img-wrap {
+  padding: 5px;
+}
+.lg{
+	height: auto;
+}
+.lg-outer .lg-img-wrap {
+	padding: 0px;
+	max-width: 100%;
+    height: auto;
+}
+.fixed-size.lg-outer .lg-img-wrap {
+	padding: 0px;
+	max-width: 100%;
+    height: auto;
+}
+.lg-outer .lg-image {
+	
+	height: auto;
+}
+
+.gallery img{
+transition: all .2s ease-in-out;
+}
+.gallery img:hover{
+
+transform: scale(1.1);
+cursor:pointer;
+}
+
+.services h1{
+	padding-top:50px;
 }
