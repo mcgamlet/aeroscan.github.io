@@ -122,7 +122,8 @@ padding-top:12px;
     right:20px;
 }
 .scrollup i{ 
-padding-left:11px;
+padding-left:13px;
+line-height: 40px;
 
 }
 .carousel-caption h1{
@@ -213,3 +214,50 @@ cursor:pointer;
 .services h1{
 	padding-top:50px;
 }
+
+.share{
+	
+	
+}
+.fbtn {
+	position:fixed;
+	
+    width: 50px;
+    height: 50px;
+ 
+    color: #fff;
+    text-align: center;
+    line-height: 45px;
+   
+}
+
+.facebook {
+	bottom:20px;
+    left:20px;
+    background-color: #3b5998;
+}
+.gplus {
+	bottom:20px;
+    left:70px;
+    background-color: #dd4b39;
+}
+.twitter {
+	bottom:20px;
+    left:120px;
+    background-color: #55acee;
+}
+.stumbleupon {
+    background-color: #eb4924;
+}
+.pinterest {
+    background-color: #cc2127;
+}
+.linkedin {
+	bottom:20px;
+    left:170px;
+    background-color: #0077b5;
+}
+.buffer {
+    background-color: #323b43;
+}
+
