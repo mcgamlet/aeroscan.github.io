@@ -6,4 +6,52 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+<url>
+  <loc>http://XN--80AA3ANCLI7G.XN--P1AI/</loc>
+  <lastmod>2017-04-24T13:27:14+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://XN--80AA3ANCLI7G.XN--P1AI/index.html</loc>
+  <lastmod>2017-04-24T13:27:14+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://XN--80AA3ANCLI7G.XN--P1AI/about.html</loc>
+  <lastmod>2017-04-24T13:27:14+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://XN--80AA3ANCLI7G.XN--P1AI/services.html</loc>
+  <lastmod>2017-04-24T13:27:14+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://XN--80AA3ANCLI7G.XN--P1AI/pricelist.pdf</loc>
+  <lastmod>2017-04-24T13:27:14+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://XN--80AA3ANCLI7G.XN--P1AI/aero.html</loc>
+  <lastmod>2017-04-24T13:27:14+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://XN--80AA3ANCLI7G.XN--P1AI/3d.html</loc>
+  <lastmod>2017-04-24T13:27:14+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://XN--80AA3ANCLI7G.XN--P1AI/orto.html</loc>
+  <lastmod>2017-04-24T13:27:14+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
 </urlset>
